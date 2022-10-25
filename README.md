@@ -126,3 +126,7 @@ Video card that supports a minimum display resolution of 720p (1280 by 720); Vis
 
 
 * [Learn C# in 7 days [Video]](https://www.packtpub.com/application-development/learn-c-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=9781789135510)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785287596">https://packt.link/free-ebook/9781785287596 </a> </p>
